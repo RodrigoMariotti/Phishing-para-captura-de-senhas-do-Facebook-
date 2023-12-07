@@ -7,7 +7,7 @@
 
 ### Configurando o Phishing no Kali Linux
 
-- No kali Linux entra no terminal com ``` sudo su ```
+- kali Linux entra no terminal com ``` sudo su ```
 - Executar setookit: ``` setoolkit ```
 - Escolher primeira opção: ``` 1)Social-Engineering Attacks ```
 - Agora segunda opção: ``` 2)Web Site Attack Vectors ```
